@@ -3,7 +3,7 @@ body {
     text-align: justify;
 }
 h1 {
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
 }
 h2 {
@@ -11,20 +11,24 @@ h2 {
 }
 table {
     margin: auto;
-    background-color: antiquewhite;
+    background-color: white;
 }
 .colorred {
     color: red;
 }
-#colorblue {
+.colorblue {
     color: blue
 }
 a {
-    color: violet;
+    color: blue;
 }
 .link1 {
     color: brown;
 }
 .link2 {
     color: blueviolet;
+}
+
+p {
+font-size: 20px;
 }
